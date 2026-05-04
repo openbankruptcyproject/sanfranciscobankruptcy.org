@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://sanfranciscobankruptcy.org/sitemap.xml
